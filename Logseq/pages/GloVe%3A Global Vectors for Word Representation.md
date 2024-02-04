@@ -1,0 +1,4 @@
+- ![glove.pdf](../assets/glove_1697221388823_0.pdf)
+- **Basic Idea**:
+	- Can we combine earlier methods of generating words vectors which were based on global co-occurrence statistics/matrix with the local context window based methods such as Word2Vec?
+	- Can we explain or explicitly model the syntactic and semantic regularities in the word representation space which is captured using vector arithmetic?

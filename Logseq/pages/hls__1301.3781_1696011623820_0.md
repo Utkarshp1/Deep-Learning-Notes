@@ -1,0 +1,55 @@
+file:: [1301.3781_1696011623820_0.pdf](../assets/1301.3781_1696011623820_0.pdf)
+file-path:: ../assets/1301.3781_1696011623820_0.pdf
+
+- At the input layer, N previous words are encoded using 1-of-V coding, where V is size of the vocabulary.
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 651efa38-15c7-4909-91aa-4e1ce62381dc
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 651efc94-037c-492c-ac5b-480d6a2d8609
+  hl-type:: area
+  hl-stamp:: 1696529556361
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 651eff72-1cff-4d98-9fd7-2f0d478990fb
+  hl-type:: area
+  hl-stamp:: 1696530289768
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 651eff96-306a-4e7e-998b-2027136c987a
+  hl-type:: area
+  hl-stamp:: 1696530326182
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 651f008e-ce8b-4505-a722-5711b01fbb12
+  hl-type:: area
+  hl-stamp:: 1696530574089
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 651f0154-5b91-43c3-a82b-7d606a59d354
+  hl-type:: area
+  hl-stamp:: 1696530771731
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 651f0168-1bb2-43a0-b954-244eb252e8c8
+  hl-type:: area
+  hl-stamp:: 1696530792083
+- We further denote two pairs of words with the same relationship as a question, as we can ask: ”What is the word that is similar to small in the same sense as biggest is similar to big?” Somewhat surprisingly, these questions can be answered by performing simple algebraic operations with the vector representation of words. To ﬁnd a word that is similar to small in the same sense as biggest is similar to big, we can simply compute vector X = vector(”biggest”) − vector(”big”) + vector(”small”). Then, we search in the vector space for the word closest to X measured by cosine distance, and use it as the answer to the question (we discard the input question words during this search). When the word vectors are well trained, it is possible to ﬁnd the correct answer (word smallest) using this method.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 65215800-45d8-45c3-bb47-eb27113bb7aa
