@@ -1,6 +1,9 @@
 This repo contains annotated research papers. These notes/annotations were prepared using [Logseq](https://logseq.com).
 
 # Computer Vision
+## Transformers in Computer Vision
+* [An Image is 16x16 words: Transformers for Image Recognition at Scale](./Transformers%20in%20Computer%20Vision/An%20Image%20is%2016x16%20words:%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf) [[Paper](https://arxiv.org/abs/2010.11929)]
+
 ## Object Detection
 * [You Only Look Once: Unified, Real-Time Object Detection](./Object%20Detection/You%20Only%20Look%20Once-%20Unified,%20Real-Time%20Object%20Detection.pdf) [[Paper](https://arxiv.org/abs/1506.02640)]
 * [YOLO9000: Better, Faster, Stronger](./Object%20Detection/YOLO9000-%20Better,%20Faster,%20Stronger.pdf) [[Paper](https://arxiv.org/abs/1612.08242)]
