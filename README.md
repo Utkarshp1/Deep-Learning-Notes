@@ -1,6 +1,9 @@
 This repo contains annotated research papers. These notes/annotations were prepared using [Logseq](https://logseq.com).
 
 # Computer Vision
+## Large CNNs for Image Classification
+* [ImageNet Classification with Deep Convolutional Neural Networks](./Large%20CNNs%20for%20Image%20Classification/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf) [[Paper]](https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
 ## Transformers in Computer Vision
 * [An Image is 16x16 words: Transformers for Image Recognition at Scale](./Transformers%20in%20Computer%20Vision/An%20Image%20is%2016x16%20words:%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf) [[Paper](https://arxiv.org/abs/2010.11929)]
 
