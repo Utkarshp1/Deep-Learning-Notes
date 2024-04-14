@@ -17,6 +17,9 @@ This repo contains annotated research papers. These notes/annotations were prepa
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](./Face%20Recognition/FaceNet-%20A%20Unified%20Embedding%20for%20Face%20Recognition%20and%20Clustering.pdf) [[Paper](https://arxiv.org/abs/1503.03832)]
 * [A Discriminative Feature Learning Approach for Deep Face Recognition](./Face%20Recognition/A%20Discriminative%20Feature%20Learning%20Approach%20for%20Deep%20Face%20Recognition.pdf) [[Paper](https://paperswithcode.com/paper/a-discriminative-feature-learning-approach)]
 
+## Explainability/Visualizing in Computer Vision
+* [Learning Deep Features for Discriminative Localization](./Explainabity%20in%20Computer%20Vision/Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf) [[Paper](https://arxiv.org/pdf/1512.04150.pdf)]
+
 # Natural Language Processing
 ## Word Representations
 * [Distributed Representations of Words and Phrases and their Compositionality](./Word%20Representations/Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) [[Paper](https://arxiv.org/abs/1310.4546)]
