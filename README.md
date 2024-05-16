@@ -20,6 +20,7 @@ This repo contains annotated research papers. These notes/annotations were prepa
 
 ## Explainability/Visualizing in Computer Vision
 * [Learning Deep Features for Discriminative Localization](./Explainabity%20in%20Computer%20Vision/Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf) [[Paper](https://arxiv.org/pdf/1512.04150.pdf)]
+* [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](./Explainabity%20in%20Computer%20Vision/Grad-CAM:%20Visual%20Explanations%20from%20Deep%20Networks%20via%20Gradient-based%20Localization.pdf) [[Paper](https://arxiv.org/abs/1610.02391)]
 
 # Natural Language Processing
 ## Word Representations
