@@ -8,6 +8,7 @@ This repo contains annotated research papers. These notes/annotations were prepa
 ## Transformers in Computer Vision
 * [An Image is 16x16 words: Transformers for Image Recognition at Scale](./Transformers%20in%20Computer%20Vision/An%20Image%20is%2016x16%20words:%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf) [[Paper](https://arxiv.org/abs/2010.11929)]
 * [MLP-Mixer: An all-MLP Architecture for Vision](./Transformers%20in%20Computer%20Vision/MLP-Mixer:%20An%20all-MLP%20Architecture%20for%20Vision.pdf) [[Paper](https://arxiv.org/pdf/2105.01601)]
+* [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](./Transformers%20in%20Computer%20Vision/Swin%20Transformer:%20Hierarchical%20Vision%20Transformer%20using%20Shifted%20Windows.pdf) [[Paper](https://arxiv.org/pdf/2103.14030)]
 
 ## Object Detection
 * [You Only Look Once: Unified, Real-Time Object Detection](./Object%20Detection/You%20Only%20Look%20Once-%20Unified,%20Real-Time%20Object%20Detection.pdf) [[Paper](https://arxiv.org/abs/1506.02640)]
