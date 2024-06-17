@@ -31,3 +31,6 @@ This repo contains annotated research papers. These notes/annotations were prepa
 
 ## Machine Translation
 * [Attention Is All You Need](./Machine%20Translation/Attention%20Is%20All%20You%20Need.pdf) [[Paper](https://arxiv.org/abs/1706.03762)]
+
+# Knowledge Distillation
+* [Distilling the Knowledge in a Neural Network](./Knowledge%20Distillation/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf) [[Paper](https://arxiv.org/abs/1503.02531)]
