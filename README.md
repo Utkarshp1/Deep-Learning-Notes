@@ -24,6 +24,9 @@ This repo contains annotated research papers. These notes/annotations were prepa
 * [Learning Deep Features for Discriminative Localization](./Explainabity%20in%20Computer%20Vision/Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf) [[Paper](https://arxiv.org/pdf/1512.04150.pdf)]
 * [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](./Explainabity%20in%20Computer%20Vision/Grad-CAM:%20Visual%20Explanations%20from%20Deep%20Networks%20via%20Gradient-based%20Localization.pdf) [[Paper](https://arxiv.org/abs/1610.02391)]
 
+## Self-Supervised Learning
+* [Momentum Contrast for Unsupervised Visual Representation Learning](./Self-Supervised%20Learning/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning.pdf) [[Paper](https://arxiv.org/pdf/1911.05722)]
+
 # Natural Language Processing
 ## Word Representations
 * [Distributed Representations of Words and Phrases and their Compositionality](./Word%20Representations/Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) [[Paper](https://arxiv.org/abs/1310.4546)]
